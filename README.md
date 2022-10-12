@@ -7,13 +7,12 @@ Player vs Player & Player vs AI game modes:
 - Enter a number from 0 to 6 to play in a specific column in the terminal output.
 
 [ ] [ ][ ][ ][ ][ ][ ]
-
 [ ] [ ][ ][ ][ ][ ][ ]
 [ ] [ ][ ][ ][ ][ ][ ]
 [ ] [ ][ ][ ][ ][ ][ ]
 [ ] [ ][ ][ ][ ][ ][ ]
 [ ] [ ][ ][ ][ ][ ][ ]
- 0   1  2  3  4  5  6  <--- column numbers
+0   1  2  3  4  5  6  <--- column numbers
  
 - Game will give error messages for invalid inputs.
  
