@@ -6,7 +6,7 @@ How to play:
 Player vs Player & Player vs AI game modes:
 - Enter a number from 0 to 6 to play in a specific column in the terminal output.
 
-[ ] [ ][ ][ ][ ][ ][ ]
+[ ] [ ][ ][ ][ ][ ][ ] \n
 [ ] [ ][ ][ ][ ][ ][ ]
 [ ] [ ][ ][ ][ ][ ][ ]
 [ ] [ ][ ][ ][ ][ ][ ]
